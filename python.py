@@ -1,6 +1,6 @@
 import json 
 python_da={
-    'Name':'Sanchita',
+    'Name':'sanchita',
     'qualification':'M.tech',
     'belongs_to_single':'False',
     'activate':'None'
